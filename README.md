@@ -31,7 +31,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 The application is deployed on Vercel:
 
-**Live URL:** _(to be updated after deployment)_
+**Live URL:** https://investment-game-khaki.vercel.app
 
 ---
 
